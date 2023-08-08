@@ -3,7 +3,6 @@ Of course! Here's an extended README with the "Description" and "Inspiration" se
 
 # Finger Detection and Counting Algorithm
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/release)
 [![OpenCV](https://img.shields.io/badge/opencv-4.x-yellow.svg)](https://pypi.org/project/opencv-python)
 [![NumPy](https://img.shields.io/badge/numpy-1.x-yellow.svg)](https://pypi.org/project/numpy)
