@@ -1,7 +1,4 @@
-# Finger-Counter
-Of course! Here's an extended README with the "Description" and "Inspiration" sections included:
-
-# Finger Detection and Counting Algorithm
+# Finger Detection and Counting
 
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/release)
 [![OpenCV](https://img.shields.io/badge/opencv-4.x-yellow.svg)](https://pypi.org/project/opencv-python)
